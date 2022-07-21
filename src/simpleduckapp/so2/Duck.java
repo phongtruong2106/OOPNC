@@ -1,4 +1,4 @@
-package buoi2.simpleduckapp.so2;
+package simpleduckapp.so2;
 
 import java.util.zip.Adler32;
 

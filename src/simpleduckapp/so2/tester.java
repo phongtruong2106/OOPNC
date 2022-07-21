@@ -1,4 +1,4 @@
-package buoi2.simpleduckapp.so2;
+package simpleduckapp.so2;
 
 public class tester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package buoi2.simpleduckapp.so1;
+package simpleduckapp.so1;
 
 public class ReadHeadDuck extends Duck{
 
