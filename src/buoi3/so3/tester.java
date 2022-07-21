@@ -1,0 +1,8 @@
+package buoi3.so3;
+
+public class tester {
+public static void main(String[] args) {
+    SimpleSubject simpleSubject = new SimpleSubject();
+    SimpleObserver simpleObserver = new SimpleObserver(simpleSubject);
+}
+}
